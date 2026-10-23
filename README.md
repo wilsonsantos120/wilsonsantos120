@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Olá, me chamo Wilson Ferreira Santos, tenho 18 anos, moro em Alagoas. Concluio o ensino médio no IFAL, com o curso técnico em Eletrônica. Atualmente, estou cursando Engenharia de Software na UMJ. Sou muito dédicado ao que faço e me interesso muito na aréa da tecnologia.
+Olá, me chamo Wilson Ferreira Santos, tenho 18 anos, moro em Alagoas. Conclui o ensino médio no IFAL, com o curso técnico em Eletrônica. Atualmente, estou cursando Engenharia de Software na UMJ. Sou muito dédicado ao que faço e me interesso muito na aréa da tecnologia.
 "[Meu Instagram](https://www.instagram.com/wilsonsantss/)".
 
 ---
